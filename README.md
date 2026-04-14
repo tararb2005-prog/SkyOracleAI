@@ -12,3 +12,12 @@ A premium weather forecasting web app.
 ## Run
 pip install -r requirements.txt
 streamlit run app.py 
+## 📸 Preview
+
+![Home](home.png)
+
+![Forecast](forecast.png)
+
+![Details](details.png)
+
+![Map](map.png)
