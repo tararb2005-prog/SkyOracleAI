@@ -11,4 +11,4 @@ A premium weather forecasting web app.
 
 ## Run
 pip install -r requirements.txt
-streamlit run app.py
+streamlit run app.py 
